@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black"/>
       <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
       <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=black"/>
       </br>
    </div>
@@ -23,6 +22,7 @@
       <h3>📚 Stacks 📚</h3>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <!--       <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> -->
+            <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
    </div>
@@ -33,7 +33,6 @@
    <div>
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Journeybongbong&layout=compact"> -->
    
-   ![Journeybongbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Journeybongbong&show_icons=true&theme=radical)
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgus4110)](https://solved.ac/wlgus4110/)  
    </div>
    

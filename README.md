@@ -4,13 +4,13 @@
    
    <h2></h2>
    <div>
-      <h3>📫 Contacts 📫</h3>
+      <h3>📫 Contact me! 📫</h3>
       <a href="mailto:wlgus4110@gmail.com"><img src="https://img.shields.io/badge/wlgus4110@gmail.com-000000?style=for-the-badge"/></a>
       
    </div>
 
    <div>
-      <h3>🌱 Learning 🌱</h3>
+      <h3>🌱 I'm learning 🌱</h3>
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black"/>
       <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
@@ -19,7 +19,7 @@
    </div>
 
    <div>
-      <h3>📚 Stacks 📚</h3>
+      <h3>📚 My stacks 📚</h3>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <!--       <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> -->
             <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>

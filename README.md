@@ -32,7 +32,12 @@
 
    <div>
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Journeybongbong&layout=compact"> -->
-   
+   <p>
+         <img height="180em" src="https://github-readme-stats-journeybongbong.vercel.app/api?username=Journeybongbong&show_icons=true" />
+         <img height="180em" src="https://github-readme-stats-journeybongbong.vercel.app/api/top-langs/?username=Journeybongbong&layout=compact&hide=jupyter%20notebook" />
+      </p>
+
+
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgus4110)](https://solved.ac/wlgus4110/)  
    </div>
    

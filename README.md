@@ -44,6 +44,8 @@
       <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Gihub Actions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Slcak-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>
+      
       
 
 </br>
@@ -53,6 +55,8 @@
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+      
    </div>
 </br>
 </div>
